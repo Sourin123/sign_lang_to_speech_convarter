@@ -9,7 +9,7 @@ import math
 
 cap = cv2.VideoCapture(0)
 detector = HandDetector(maxHands=1)
-classifier = Classifier("Model/keras_model.h5", "Model/labels.txt")
+classifier = Classifier("keras_model.h5", "labels.txt")
 offset = 20
 imgSize = 300
 labels = ["A", "B", "C","I","L","M","N","O","T","V","Y",]
