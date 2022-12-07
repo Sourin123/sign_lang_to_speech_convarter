@@ -1,6 +1,6 @@
 # sign_lang_to_speech_convarter
 prototype model it need time to train it 
-#for time being it only support 11 characters
+# For time being it only support 11 characters
 A
 B
 C
